@@ -1,1 +1,1 @@
-# barber
+# Учебный проект «Barbershop» — HTML Academy
