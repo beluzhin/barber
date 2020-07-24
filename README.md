@@ -1,1 +1,3 @@
-# Учебный проект «Barbershop» — HTML Academy
+# Barbershop
+
+Учебный проект «Barbershop» — HTML Academy
